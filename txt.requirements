@@ -1,0 +1,4 @@
+Telethon==1.21.1
+requests==2.25.1
+PySocks==1.7.1
+colorama==0.4.4
