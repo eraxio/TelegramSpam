@@ -6,10 +6,10 @@ from sqlalchemy.orm import relationship
 import socks
 import requests
 
-import config
+import telegSpam.config
 
-from telegram_utils.teleg_client import launch_telegram_client
-from telegram_utils.teleg_client import CustomTelegramClient
+from telegSpam.telegram_utils.teleg_client import launch_telegram_client
+from telegSpam.telegram_utils.teleg_client import CustomTelegramClient
 
 from loguru import logger
 
