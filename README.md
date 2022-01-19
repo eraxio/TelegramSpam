@@ -1,8 +1,8 @@
-#Telegram Spammer
+# Telegram Spammer
 ___
 A script for sending spam with a lot of telegrams accounts with proxies with telethon sessions
 ___
-###How use:
+### How use:
 ___
 
 git clone "https://github.com/BulatXam/TelegramSpam"
